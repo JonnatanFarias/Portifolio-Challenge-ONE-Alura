@@ -5,7 +5,7 @@
 <h2>🏆 Recompensas</h2>
 <div align="center">
   <p><strong>Recompensa de conclusão do desafio 😀</strong></p>
-  <img src="https://imgur.com/a/DA0pmqF" alt="Badget alura" width="300" height="300">
+  <img src="[https://imgur.com/a/DA0pmqF]" alt="Badget alura" width="300" height="300">
 </div>
 
 <h2>💻 Tecnologias utilizadas</h2>
